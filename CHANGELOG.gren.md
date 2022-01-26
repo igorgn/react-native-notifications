@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.1 (26/01/2022)
+*No changelog for this release.*
+
+---
+
 ## 3.0.0-beta.4 (31/12/1969)
 *No changelog for this release.*
 
@@ -65,7 +70,7 @@
 
 ---
 
-## 0.0.1 (31/12/1969)
+## 0.0.2 (31/12/1969)
 *No changelog for this release.*
 
 ---
